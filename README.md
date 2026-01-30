@@ -1,17 +1,18 @@
 # Resume Website
 
-This is a simple, single-page resume website built with HTML. 
+This is a simple, single-page resume website built with HTML.
+You can checkout my resume here - https://sarthaknegi296.github.io/Resume-HTML/
 
 ## Description
 
 The website is a static HTML page that provides a clean and easy-to-read resume. It includes the following sections:
 
--   **About Me:** A brief introduction.
--   **Skills:** A list of technical skills.
--   **Experience:** Professional work experience.
--   **Projects:** A description of key projects.
--   **Education:** Educational background.
--   **Contact:** Contact information.
+- **About Me:** A brief introduction.
+- **Skills:** A list of technical skills.
+- **Experience:** Professional work experience.
+- **Projects:** A description of key projects.
+- **Education:** Educational background.
+- **Contact:** Contact information.
 
 ## Setup
 
@@ -30,10 +31,8 @@ There is no special setup required. You only need a web browser to view the resu
 
 Open the `resume.html` file in your web browser to view the resume.
 
-
 or simply double-click the file.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
